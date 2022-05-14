@@ -1,0 +1,10 @@
+2022-05-14 20:35:55.209  INFO 17248 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-14 20:35:55.219  INFO 17248 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-14 20:35:55.219  INFO 17248 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-14 20:35:55.277  INFO 17248 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-14 20:35:55.277  INFO 17248 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1028 ms
+2022-05-14 20:35:55.488  INFO 17248 --- [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-14 20:35:55.581  INFO 17248 --- [restartedMain] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-14 20:35:56.463  INFO 17248 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-14 20:35:56.512  INFO 17248 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-14 20:35:56.522  INFO 17248 --- [restartedMain] ionSolveCacheBreakdownProblemApplication : Started SpringBootRedisHmdpUseLogicalExpirationSolveCacheBreakdownProblemApplication in 2.657 seconds (JVM running for 3.294)
